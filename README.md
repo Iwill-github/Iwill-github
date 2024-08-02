@@ -2,6 +2,7 @@
 
 <!--
 **Iwill-github/Iwill-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=Iwill-githube&show_icons=true&theme=transparent)
 
 Here are some ideas to get you started:
 
