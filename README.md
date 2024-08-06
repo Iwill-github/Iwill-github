@@ -2,8 +2,6 @@
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Iwill-github&show_icons=true&theme=transparent)
 -->
-![](https://github-readme-stats.vercel.app/api?username=Iwill-github&show_icons=true&theme=transparent)
-
 
 <!--
 **Iwill-github/Iwill-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
